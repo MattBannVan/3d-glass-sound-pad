@@ -40,7 +40,6 @@ body {
 
 /* Header */
 .header {
-    background: var(--bg-primary);
     box-shadow: var(--shadow-sm);
     position: sticky;
     top: 0;
@@ -400,11 +399,6 @@ body {
     .app-title {
         font-size: 1.5rem;
     }
-}
-
-/* Smooth Scroll */
-html {
-    scroll-behavior: smooth;
 }
 
 /* Selection */
